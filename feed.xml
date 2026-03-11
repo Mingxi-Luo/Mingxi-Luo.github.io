@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Mingxi Luo</title>
-    <link href="https://github.com/Mingxi-Luo/mxlo.me/feed.xml" rel="self" />
-    <link href="https://github.com/Mingxi-Luo/mxlo.me" />
+    <link href="https://Mingxi-Luo.github.io/feed.xml" rel="self" />
+    <link href="https://Mingxi-Luo.github.io" />
     <updated>1969-12-31T16:00:00-08:00</updated>
     <author>
         <name>Mingxi Luo</name>
     </author>
-    <id>https://github.com/Mingxi-Luo/mxlo.me</id>
+    <id>https://Mingxi-Luo.github.io</id>
 
 </feed>
