@@ -3,10 +3,30 @@
     <title>Mingxi Luo</title>
     <link href="https://mingxi-luo.github.io/feed.xml" rel="self" />
     <link href="https://mingxi-luo.github.io" />
-    <updated>1969-12-31T16:00:00-08:00</updated>
+    <updated>2026-03-11T02:21:58-07:00</updated>
     <author>
         <name>Mingxi Luo</name>
     </author>
     <id>https://mingxi-luo.github.io</id>
 
+    <entry>
+        <title>Test</title>
+        <author>
+            <name>Mingxi Luo</name>
+        </author>
+        <link href="https://mingxi-luo.github.io/test.html"/>
+        <id>https://mingxi-luo.github.io/test.html</id>
+
+        <updated>2026-03-11T02:21:58-07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    This is a test post.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>This is a test post.</p>
+            ]]>
+        </content>
+    </entry>
 </feed>
