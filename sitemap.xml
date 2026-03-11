@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://mingxi-luo.github.io/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://mxlo.me/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://mingxi-luo.github.io/</loc>
+<loc>https://mxlo.me/</loc>
 </url>
 <url>
-<loc>https://mingxi-luo.github.io/test.html</loc>
+<loc>https://mxlo.me/test.html</loc>
 <lastmod>2026-03-11T02:21:58-07:00</lastmod>
 </url>
 </urlset>

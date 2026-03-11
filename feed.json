@@ -2,16 +2,16 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Mingxi Luo",
     "description": "",
-    "home_page_url": "https://mingxi-luo.github.io",
-    "feed_url": "https://mingxi-luo.github.io/feed.json",
+    "home_page_url": "https://mxlo.me",
+    "feed_url": "https://mxlo.me/feed.json",
     "user_comment": "",
     "author": {
         "name": "Mingxi Luo"
     },
     "items": [
         {
-            "id": "https://mingxi-luo.github.io/test.html",
-            "url": "https://mingxi-luo.github.io/test.html",
+            "id": "https://mxlo.me/test.html",
+            "url": "https://mxlo.me/test.html",
             "title": "Test",
             "summary": "This is a test post.",
             "content_html": "<p>This is a test post.</p>",
