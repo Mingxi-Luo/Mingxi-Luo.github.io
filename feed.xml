@@ -3,30 +3,10 @@
     <title>mxlo.me</title>
     <link href="https://mxlo.me/feed.xml" rel="self" />
     <link href="https://mxlo.me" />
-    <updated>2026-03-11T02:21:58-07:00</updated>
+    <updated>1969-12-31T16:00:00-08:00</updated>
     <author>
         <name>Mingxi Luo</name>
     </author>
     <id>https://mxlo.me</id>
 
-    <entry>
-        <title>Test</title>
-        <author>
-            <name>Mingxi Luo</name>
-        </author>
-        <link href="https://mxlo.me/test.html"/>
-        <id>https://mxlo.me/test.html</id>
-
-        <updated>2026-03-11T02:21:58-07:00</updated>
-            <summary type="html">
-                <![CDATA[
-                    This is a test post.
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                <p>This is a test post.</p>
-            ]]>
-        </content>
-    </entry>
 </feed>
